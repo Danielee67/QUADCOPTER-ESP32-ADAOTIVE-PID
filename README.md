@@ -258,7 +258,7 @@ This project is licensed under **GNU General Public License v3.0** – see the [
   author = {Adam Thear Abdel Nabi},
   title = {ESP32 Quadcopter Flight Controller with GPS Hold},
   year = {2026},
-  url = {https://github.com/adamtheareng22/ESP32_QuadFlightController}
+  url = {https://github.com/adamthear/QUADCOPTER-ESP32-ADAPTIVE-PID}
 }
 ```
 
@@ -278,8 +278,8 @@ Pull requests and issue reports are welcome! If you find a bug or have an improv
 
 ## 📞 Contact
 
-- **GitHub:** [@adamthaereng22-ops](https://github.com/adamthaereng22-ops)
-- **Email:** [adam.thear@example.com](mailto:adam.thear@example.com)
+- **GitHub:** [@adamthaereng22-ops](https://github.com/adamthaer-ops)
+- **Email:** [alpha16756@gmail.com]
 
 ## 🙏 Acknowledgments
 
